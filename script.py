@@ -9,7 +9,7 @@ import csv
 def main():
     # Parsing CLI arguments
     parser = ArgumentParser(
-        description="Sample script for Zendesk Administrators utilising Zendesk API client for Python to create CSV report of number of incidents per problem ticket. Credentials can be configured in .env file or overriden through optional arguments."
+        description="Sample script for Zendesk administrators utilising Zendesk API client for Python to create CSV report of number of incidents per problem ticket. Credentials can be configured in .env file or overriden through optional arguments."
     )
     parser.add_argument(
         "-s",

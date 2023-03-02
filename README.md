@@ -26,4 +26,4 @@ options: \
 -o OAUTHTOKEN Pre-generated OAuth2 token with "users:read organizations:read" scope \
 -u USERNAME Agent Zendesk email address \
 -p PASSWORD Agent Zendesk password \
--t APITOKEN Zendesk API token \
+-t APITOKEN Zendesk API token
